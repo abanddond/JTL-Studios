@@ -1,16 +1,16 @@
 @font-face {
-  src: url(fonts/harlow.ttf);
+  src: url(/fonts/harlow.ttf);
   font-family: 'harlow';
 
 }
 
 @font-face {
-  src: url(fonts/MyriadPro-Regular.otf);
+  src: url(/fonts/MyriadPro-Regular.otf);
   font-family: 'myriad-reg';
 }
 
 @font-face {
-  src: url(fonts/MyriadPro-Bold.otf);
+  src: url(/fonts/MyriadPro-Bold.otf);
   font-family: 'myriad-bold';
 }
 
